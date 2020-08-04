@@ -6,4 +6,4 @@ Two simple RNN models are presented as follows:
 1.	Input -> LSTM -> Dense;
 2.	Input -> Conv1d -> Relu -> Pooling -> LSTM -> Dense
 
-The dataset is acquired from https://qrng.anu.edu.au/RainHex.php. There are 327399 (317399 for training, 10000 for testing) hex numbers in this dataset.
+The dataset is acquired from https://qrng.anu.edu.au/RainHex.php. There are 327399 (317399 for training, 10000 for testing) hex numbers in this dataset. The dataset used in the paper can be downloaded at https://we.tl/t-NYn6Une5dT.
